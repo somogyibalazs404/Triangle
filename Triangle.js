@@ -17,7 +17,7 @@ else if (ab < c && cb > a && ac > b) {
     document.write(`Your triangle is ${a} x ${b} x ${c}, it's "c" side is too long so it does not exist, because "a" and "b" is ${ab} which is shorter than ${c}.`);
 }
 else if (ab == c | cb == a | ac == b) {
-    document.write(`Your triangle is ${a} x ${b} x ${c}, it is an existing triangle, non other than a right-angle triangle.`);
+    document.write(`Your triangle is ${a} x ${b} x ${c}, it is an existing triangle, non other than a isosceles triangle.`);
 }
 else {
     document.write(`Ilyen nincs! ${a} ${b} ${c}`)
