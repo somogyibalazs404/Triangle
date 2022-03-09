@@ -1,6 +1,6 @@
 let a = Math.round((Math.random() + 1) * 25);
 let b = Math.round((Math.random() + 1) * 25);
-let c = Math.round((Math.random() + 1) * 25c =)
+let c = Math.round((Math.random() + 1) * 25);
 let cb = c + b;
 let ab = a + b;
 let ac = a + c;
